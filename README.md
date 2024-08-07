@@ -48,3 +48,5 @@ This is the backend of a social media application built using Node.js, Express, 
    JWT_SECRET=<Your JWT Secret>
    JWT_EXPIRE=<Your Expire Time>
    PORT=<Your Port>
+
+Api documentation : https://documenter.getpostman.com/view/29743624/2sA3rzKt18
